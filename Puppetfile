@@ -5,6 +5,9 @@ forge "http://forge.puppetlabs.com"
 # Example: pulls latest 
 mod "puppetlabs/ntp"
 mod "puppetlabs/motd", "1.0.1"
+mod "torrancew/account"
+mod "saz/ssh"
+mod "saz/sudo"
 
 # Example locked to git branch
 #mod 'gpg',            :git => 'git://github.com/puppetlabs-operations/puppet-gpg.git',          :ref => 'crayfishxmaster'
